@@ -55,6 +55,7 @@ public class stack<T> {
 	}
 }
 ///////main class///////
+
 import javax.swing.JOptionPane;
 public class startup{
 	public static void main(String[] args) {
@@ -88,6 +89,8 @@ public class startup{
 
 }
 .........................................................book(array of object xlass....................................
+
+
 import java.util.*;
 public class Book {
 
@@ -137,6 +140,9 @@ public class Book {
 	
 }
 ............................................................................................theatre(for rating and capacity......................
+
+
+
 public class theatre {
 private String tname;
 private String tlocation;
@@ -177,6 +183,9 @@ void display()
 }
 
 .......................................
+
+
+
 import java.util.*;
 public class startup {
 
